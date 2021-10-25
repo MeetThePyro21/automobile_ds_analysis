@@ -1,1 +1,3 @@
-# automobile_ds_analysis
+Датасет https://archive.ics.uci.edu/ml/datasets/automobile содержащем информацию о параметрах различных автомобилей
+
+Задача: модель прогнозирования цен на машины
